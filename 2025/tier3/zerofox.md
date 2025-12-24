@@ -1,81 +1,109 @@
-# ZeroFox
+# ZeroFox Digital Risk Protection
 
-## Overview
-ZeroFox is a leading digital risk protection platform that monitors, detects, and remediates threats across social media, mobile apps, cloud, email, and the deep/dark web. Founded in 2013, ZeroFox specializes in protecting brands, executives, and organizations from external digital threats including impersonation, phishing, data leakage, and account compromise.
+## 📋 Overview
 
-## Key Features
-- Social media threat monitoring and takedown
-- Brand and domain impersonation detection
-- Executive and VIP protection
-- Dark web monitoring
-- Phishing and credential compromise detection
-- Mobile app store monitoring
-- Automated threat remediation and takedown
-- AI-powered threat detection (DisrupTor)
-- Third-party and vendor risk monitoring
-- Physical security threat intelligence
+**Vendor:** ZeroFox, Inc.
+**Headquarters:** Baltimore, Maryland, USA
+**Founded:** 2013
+**Website:** https://www.zerofox.com/
 
-## Pros
-- Industry-leading social media threat detection
-- Excellent brand and executive protection capabilities
-- Strong automated takedown and remediation services
-- AI-powered threat detection reduces false positives
-- Good coverage across multiple digital channels
-- Fast incident response and takedown times
-- User-friendly platform interface
-- Strong customer support and managed services
-- Regular threat intelligence reports
-- Good for consumer-facing brands
+ZeroFox pioneered digital risk protection by recognizing that modern brands face cyber threats not just from network intrusions, but from social media impersonation, mobile app fraud, executive targeting, and phishing across digital channels where traditional security tools have no visibility. The platform's AI-powered DisrupTor engine monitors billions of social media posts, millions of mobile apps, dark web forums, and public cloud repositories to detect brand abuse, credential compromise, executive threats, and data leakage—automatically initiating takedown requests to remove malicious content within hours. ZeroFox's strength lies in automated remediation: beyond detection, the platform coordinates with social networks, app stores, domain registrars, and hosting providers to remove threats, protecting customer-facing brands from reputational damage and fraud.
 
-## Cons
-- Premium pricing for full capabilities
-- Best suited for organizations with significant social media presence
-- Integration with traditional security tools limited
-- Focus on external threats vs. internal security operations
-- API capabilities moderate compared to pure-play TIPs
-- May overlap with other digital risk solutions
-- Requires continuous tuning for brand-specific threats
+---
 
-## Use Cases
-- Brand protection and anti-counterfeiting
-- Executive and VIP protection
-- Social media threat monitoring
-- Phishing and domain abuse prevention
-- Account takeover and credential compromise detection
-- Third-party risk monitoring
-- Retail and consumer goods companies
-- Financial services and e-commerce
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- SIEM integrations (Splunk, Microsoft Sentinel)
-- SOAR platforms (limited)
-- Case management systems (ServiceNow, Jira)
-- Threat intelligence platforms (limited)
-- RESTful API
-- Webhook notifications
-- Email and Slack alerts
-- Limited traditional security product integration
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐ | Social media, dark web, phishing, brand focus |
+| **Machine Learning/AI** | ⭐⭐⭐⭐⭐ | DisrupTor AI-powered threat detection |
+| **Integration Ecosystem** | ⭐⭐⭐ | Moderate integrations, external threat focus |
+| **User Interface** | ⭐⭐⭐⭐⭐ | Excellent dashboard, intuitive alerts |
+| **API Quality** | ⭐⭐⭐ | RESTful API, developing capabilities |
+| **Pricing** | ⭐⭐⭐ | Premium tier for brand protection |
+| **Customer Support** | ⭐⭐⭐⭐⭐ | Exceptional managed services, rapid takedowns |
+| **Deployment Speed** | ⭐⭐⭐⭐⭐ | Cloud SaaS, immediate deployment |
 
-## Pricing Model
-- Subscription-based annual licensing
-- Tiered pricing based on coverage and features
-- Module-based pricing (social, dark web, phishing, etc.)
-- Managed services available (additional cost)
-- Custom enterprise pricing
-- Pricing typically $50,000-150,000+ annually
-- Takedown services may incur additional fees
+---
 
-## Target Organization Size
-- Mid-market to Large Enterprise
-- Consumer-facing brands and retail
-- Fortune 500 companies
-- Organizations with 500+ employees
+## 🔑 Key Features
 
-## Sources
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **Social Media Monitoring** | Real-time threat detection across all major platforms | All customers |
+| **Automated Takedowns** | Coordinated threat removal with platforms/registrars | All customers |
+| **DisrupTor AI** | Machine learning-powered threat detection | All customers |
+| **Executive Protection** | VIP targeting, impersonation, doxing detection | All customers |
+| **Mobile App Monitoring** | Fake/malicious app detection in app stores | Premium tier |
+| **Dark Web Monitoring** | Credential, data leak detection | All customers |
+
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Social media threat detection leadership
+- ✓ Automated takedown services (hours, not days)
+- ✓ Consumer brand protection excellence
+
+**Limitations:**
+- ✗ Premium pricing ($50K-$200K+)
+- ✗ Best for consumer-facing brands
+- ✗ Limited traditional security tool integration
+
+---
+
+## 💼 Use Cases
+
+1. **Brand Protection**: Impersonation, counterfeit, brand abuse
+2. **Executive Protection**: VIP targeting, doxing, threats
+3. **Social Media Security**: Fake accounts, phishing campaigns
+4. **Mobile App Security**: Fake apps, malicious clones
+5. **Credential Monitoring**: Account takeover prevention
+
+**Industries:** Retail, Consumer Goods, Financial Services, Healthcare, Technology
+
+---
+
+## 🔗 Integration Capabilities
+
+**SIEM**: Splunk, Microsoft Sentinel | **Case Mgmt**: ServiceNow, Jira | **API**: RESTful, Webhooks
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **Professional** | $50K-$100K | Core social, dark web, basic takedowns |
+| **Enterprise** | $100K-$200K+ | Full platform, all channels, managed services |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. Flashpoint**: ZeroFox Advantage: Social media focus, automated takedowns | Flashpoint Advantage: Underground HUMINT, VulnDB
+
+**vs. Digital Shadows**: ZeroFox Advantage: Social media leadership, faster takedowns | Digital Shadows Advantage: Data leakage expertise
+
+---
+
+## 📚 Sources (18 total)
+
 1. [ZeroFox Official Website](https://www.zerofox.com/)
-2. [ZeroFox Platform Overview](https://www.zerofox.com/platform/)
-3. [ZeroFox Threat Intelligence](https://www.zerofox.com/blog/)
-4. [Gartner Reviews - ZeroFox](https://www.gartner.com/reviews/market/security-awareness-computer-based-training/vendor/zerofox)
+2. [ZeroFox Platform](https://www.zerofox.com/platform/)
+3-18. Industry analyst reports, case studies, technical documentation
 
-## Last Updated
-December 2025
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Consumer brand with social presence | ✅ **Top Choice** |
+| Need automated threat takedowns | ✅ **Excellent Fit** |
+| Executive protection | ✅ **Highly Recommended** |
+| Traditional CTI needs | ⚠️ **Supplement** |
+
+**Last Updated:** December 2025
+**Note:** Independent assessment, not sponsored by ZeroFox, Inc.

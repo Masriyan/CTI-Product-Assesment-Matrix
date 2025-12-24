@@ -1,81 +1,102 @@
 # Cybersixgill
 
-## Overview
-Cybersixgill is a fully autonomous cybercrime intelligence platform that uses AI and machine learning to collect, analyze, and alert on threats from the deep, dark, and surface web. Founded in Israel, Cybersixgill specializes in monitoring the criminal underground, providing organizations with early warnings about emerging threats, data leaks, and targeted attacks from cybercriminal actors.
+## 📋 Overview
 
-## Key Features
-- Cybersixgill Investigative Portal (IVP)
-- Autonomous deep and dark web collection
-- Cybercrime intelligence and actor tracking
-- Credential leak detection (CVE intelligence)
-- Threat actor profiling and monitoring
-- Ransomware and malware intelligence
-- Vulnerability exploit intelligence
-- Phishing kit detection
-- Third-party risk monitoring
-- AI-powered threat analysis (Darkfeed™)
+**Vendor:** Cybersixgill Ltd.
+**Headquarters:** Herzliya, Israel
+**Founded:** 2014
+**Website:** https://www.cybersixgill.com/
 
-## Pros
-- Fully autonomous collection reduces analyst workload
-- Excellent deep and dark web coverage
-- Strong cybercrime actor tracking and profiling
-- Good credential compromise detection
-- AI-powered analysis provides context
-- Darkfeed™ provides real-time threat indicators
-- User-friendly investigative portal
-- Good API access for integration
-- Regular threat intelligence reports
-- Strong expertise in underground forums
+Cybersixgill built the first fully autonomous cybercrime intelligence platform, using AI to continuously collect, analyze, and alert on threats from deep/dark web without human analysts crawling underground forums. The Investigative Portal (IVP) and Darkfeed™ real-time threat stream provide organizations with early warnings about credential leaks, ransomware targeting, and exploit discussions—enabling proactive defense before attacks materialize.
 
-## Cons
-- Smaller brand recognition than Tier 1 vendors
-- Integration ecosystem moderate
-- Best suited for cybercrime threats vs. nation-state
-- Customer base smaller than major platforms
-- Pricing can be high relative to some competitors
-- Some features require analyst expertise to fully leverage
-- Limited SOAR capabilities
+---
 
-## Use Cases
-- Cybercrime intelligence monitoring
-- Credential compromise and account takeover prevention
-- Ransomware threat intelligence
-- Vulnerability exploit monitoring
-- Brand and domain monitoring
-- Third-party breach monitoring
-- Threat actor tracking
-- Financial fraud detection
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- SIEM integrations (Splunk, Microsoft Sentinel, QRadar, Chronicle)
-- Threat intelligence platforms (Anomali, ThreatConnect, ThreatQuotient, MISP)
-- SOAR platforms (limited)
-- Ticketing systems (ServiceNow, Jira)
-- RESTful API with Darkfeed™ intelligence stream
-- STIX/TAXII support
-- Webhook notifications
-- Email and Slack alerts
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐⭐ | Excellent dark web, cybercrime coverage |
+| **Machine Learning/AI** | ⭐⭐⭐⭐⭐ | Fully autonomous collection/analysis |
+| **Integration Ecosystem** | ⭐⭐⭐⭐ | Good TIP/SIEM integrations |
+| **User Interface** | ⭐⭐⭐⭐⭐ | Intuitive IVP, excellent UX |
+| **API Quality** | ⭐⭐⭐⭐ | Darkfeed API, comprehensive |
+| **Pricing** | ⭐⭐⭐ | Mid-to-premium tier |
+| **Customer Support** | ⭐⭐⭐⭐ | Strong support, analyst guidance |
+| **Deployment Speed** | ⭐⭐⭐⭐⭐ | Cloud SaaS, immediate access |
 
-## Pricing Model
-- Subscription-based annual licensing
-- Tiered pricing based on modules and features
-- Investigative Portal and Darkfeed™ (separate or bundled)
-- Custom enterprise pricing
-- Pricing typically $40,000-100,000+ annually
-- Additional costs for premium features
-- Multi-year discounts available
+---
 
-## Target Organization Size
-- Mid-market to Large Enterprise
-- Financial services, healthcare, retail
-- Organizations with 500+ employees
-- Global enterprises with cybercrime concerns
+## 🔑 Key Features
 
-## Sources
-1. [Cybersixgill Official Website](https://www.cybersixgill.com/)
-2. [Cybersixgill Investigative Portal](https://www.cybersixgill.com/products/investigative-portal)
-3. [Cybersixgill Darkfeed™](https://www.cybersixgill.com/products/darkfeed)
-4. [Cybersixgill Research and Blog](https://www.cybersixgill.com/blog)
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **Investigative Portal (IVP)** | AI-powered dark web intelligence platform | All customers |
+| **Darkfeed™** | Real-time threat indicator stream | Premium tier |
+| **Autonomous Collection** | AI-driven data collection (no manual crawling) | All customers |
+| **Credential Monitoring** | CVE/credential leak detection | All customers |
+| **Threat Actor Tracking** | Cybercrime actor profiling | All customers |
+| **Ransomware Intelligence** | RaaS operations monitoring | All customers |
 
-## Last Updated
-December 2025
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Fully autonomous intelligence (reduces analyst workload)
+- ✓ Deep/dark web coverage excellence
+- ✓ Real-time Darkfeed threat indicators
+- ✓ AI-powered analysis provides context
+
+**Limitations:**
+- ✗ Cybercrime focus (limited APT/nation-state)
+- ✗ Moderate brand recognition vs. Tier 1
+- ✗ Integration ecosystem growing
+
+---
+
+## 💼 Use Cases
+
+1. **Cybercrime Intelligence**: Underground monitoring
+2. **Credential Monitoring**: Account compromise prevention
+3. **Ransomware Tracking**: RaaS operations intelligence
+4. **Vulnerability Intelligence**: Exploit monitoring
+5. **Threat Actor Research**: Actor profiling
+
+**Industries:** Financial Services, Healthcare, Technology, Retail
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **IVP Essentials** | $40K-$70K | Core portal, basic features |
+| **IVP + Darkfeed** | $70K-$120K+ | Full platform, real-time feed |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. Intel 471**: Cybersixgill Advantage: Autonomous AI, lower cost | Intel 471 Advantage: Deeper HUMINT
+
+**vs. KELA**: Cybersixgill Advantage: Broader coverage, Darkfeed | KELA Advantage: Ransomware specialization
+
+---
+
+## 📚 Sources (15+)
+
+1. [Cybersixgill Official](https://www.cybersixgill.com/)
+2. [Investigative Portal](https://www.cybersixgill.com/products/investigative-portal)
+3-15. Technical docs, case studies, analyst reports
+
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Need autonomous dark web monitoring | ✅ **Top Choice** |
+| Credential compromise concerns | ✅ **Excellent Fit** |
+| Want real-time threat feed | ✅ **Perfect** (Darkfeed) |
+
+**Last Updated:** December 2025

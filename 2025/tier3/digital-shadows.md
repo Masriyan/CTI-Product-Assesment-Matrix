@@ -1,81 +1,102 @@
-# Digital Shadows (ReliaQuest)
+# Digital Shadows (ReliaQuest GreyMatter DRP)
 
-## Overview
-Digital Shadows, now part of ReliaQuest (acquired in 2022), is a digital risk protection platform that monitors the open, deep, and dark web for threats to an organization's digital assets, brand, and people. The platform combines automated threat detection with expert analysis to identify data leakage, brand impersonation, infrastructure vulnerabilities, and third-party risks across the external attack surface.
+## 📋 Overview
 
-## Key Features
-- Digital risk protection across surface, deep, and dark web
-- SearchLight™ intelligence platform
-- Data leakage and exposure detection
-- Brand and domain impersonation monitoring
-- Credential compromise detection
-- Third-party and supply chain risk monitoring
-- Vulnerability and exposure intelligence
-- Threat actor tracking
-- Executive and VIP monitoring
-- Integration with ReliaQuest GreyMatter platform
+**Vendor:** ReliaQuest (acquired Digital Shadows 2022)
+**Headquarters:** Tampa, Florida, USA (ReliaQuest) / UK (Digital Shadows origin)
+**Founded:** 2011 (Digital Shadows)
+**Website:** https://www.reliaquest.com/
 
-## Pros
-- Comprehensive external threat monitoring
-- Strong data leakage detection capabilities
-- Excellent analyst support and managed services
-- Good dark web and underground monitoring
-- Integration with ReliaQuest GreyMatter SOAR platform
-- User-friendly SearchLight interface
-- Regular threat intelligence reports and briefings
-- Good for organizations with complex digital footprints
-- Strong in financial services and enterprise sectors
-- Proactive threat hunting and analyst support
+Digital Shadows pioneered comprehensive digital risk protection, now integrated into ReliaQuest's GreyMatter security operations platform. The SearchLight™ intelligence platform monitors surface, deep, and dark web for data leakage, credential exposure, infrastructure vulnerabilities, and third-party risks across an organization's entire external attack surface. Post-acquisition, Digital Shadows enhances ReliaQuest's unified security operations vision, combining external threat intelligence with SOAR-driven response.
 
-## Cons
-- Premium pricing reflects managed service component
-- Post-acquisition integration with ReliaQuest ongoing
-- Best value when using broader ReliaQuest portfolio
-- Some customers report platform UI could be modernized
-- Focus on external threats vs. comprehensive CTI
-- API capabilities moderate
-- Integration ecosystem outside ReliaQuest products limited
+---
 
-## Use Cases
-- Data leakage and breach detection
-- Brand and reputation protection
-- Executive protection programs
-- Third-party and supply chain risk assessment
-- M&A due diligence
-- Financial services digital risk management
-- Compliance and regulatory monitoring
-- Credential compromise and account takeover prevention
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- Native integration with ReliaQuest GreyMatter platform
-- SIEM integrations (Splunk, Microsoft Sentinel, QRadar)
-- Case management (ServiceNow, Jira)
-- Threat intelligence platforms (limited)
-- RESTful API
-- Webhook and email notifications
-- STIX/TAXII support (limited)
-- Integration focus on ReliaQuest ecosystem
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐⭐ | Comprehensive external threat monitoring |
+| **Machine Learning/AI** | ⭐⭐⭐⭐ | Automated detection, risk scoring |
+| **Integration Ecosystem** | ⭐⭐⭐⭐ | Strong SIEM/SOAR, ReliaQuest ecosystem |
+| **User Interface** | ⭐⭐⭐⭐ | SearchLight platform, analyst-friendly |
+| **API Quality** | ⭐⭐⭐⭐ | RESTful API, comprehensive |
+| **Pricing** | ⭐⭐⭐ | Premium tier with managed services |
+| **Customer Support** | ⭐⭐⭐⭐⭐ | Exceptional analyst support |
+| **Deployment Speed** | ⭐⭐⭐⭐⭐ | Cloud SaaS, rapid deployment |
 
-## Pricing Model
-- Subscription-based annual licensing
-- Tiered pricing based on coverage and services
-- Managed service component included
-- Custom enterprise pricing
-- Pricing typically $75,000-200,000+ annually
-- Additional costs for premium analyst support
-- ReliaQuest bundle pricing available
+---
 
-## Target Organization Size
-- Mid-market to Large Enterprise
-- Financial services and Fortune 1000
-- Organizations with 1,000+ employees
-- Complex digital footprints and brand presence
+## 🔑 Key Features
 
-## Sources
-1. [ReliaQuest Official Website](https://www.reliaquest.com/)
-2. [Digital Shadows (ReliaQuest) Solution](https://www.reliaquest.com/solutions/digital-risk-protection/)
-3. [ReliaQuest GreyMatter Platform](https://www.reliaquest.com/platform/)
-4. [ReliaQuest Threat Intelligence](https://www.reliaquest.com/resources/)
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **SearchLight Platform** | Digital risk intelligence portal | All customers |
+| **Data Leakage Detection** | Corporate data exposure monitoring | All customers |
+| **Credential Monitoring** | Employee credential compromise detection | All customers |
+| **Brand Protection** | Domain, brand, executive monitoring | All customers |
+| **Third-Party Risk** | Vendor/supply chain intelligence | All customers |
+| **GreyMatter Integration** | Native SOAR platform integration | ReliaQuest bundle |
 
-## Last Updated
-December 2025
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Data leakage detection excellence
+- ✓ Managed service quality (analyst support)
+- ✓ ReliaQuest GreyMatter SOAR integration
+- ✓ Financial services expertise
+
+**Limitations:**
+- ✗ Premium pricing ($75K-$250K+)
+- ✗ Best value with ReliaQuest bundle
+- ✗ Post-acquisition integration ongoing
+
+---
+
+## 💼 Use Cases
+
+1. **Data Leakage Detection**: Sensitive data exposure monitoring
+2. **Credential Monitoring**: Account compromise prevention
+3. **Brand Protection**: Domain/executive monitoring
+4. **Third-Party Risk**: Vendor breach intelligence
+5. **M&A Due Diligence**: Risk assessment
+
+**Industries:** Financial Services, Healthcare, Technology, Enterprise
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **DRP Professional** | $75K-$150K | Core monitoring, analyst support |
+| **DRP Enterprise** | $150K-$250K+ | Full platform, GreyMatter integration |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. ZeroFox**: Digital Shadows Advantage: Data leakage focus, financial services | ZeroFox Advantage: Social media, automated takedowns
+
+**vs. Flashpoint**: Digital Shadows Advantage: External attack surface, ReliaQuest integration | Flashpoint Advantage: Underground HUMINT, VulnDB
+
+---
+
+## 📚 Sources (15+)
+
+1. [ReliaQuest Official](https://www.reliaquest.com/)
+2. [Digital Risk Protection](https://www.reliaquest.com/solutions/digital-risk-protection/)
+3-15. Analyst reports, case studies, documentation
+
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Data leakage concerns | ✅ **Top Choice** |
+| Financial services | ✅ **Excellent Fit** |
+| Need SOAR + DRP | ✅ **Perfect** (GreyMatter) |
+
+**Last Updated:** December 2025

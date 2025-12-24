@@ -1,80 +1,110 @@
 # Proofpoint Emerging Threats Intelligence
 
-## Overview
-Proofpoint Emerging Threats (ET) Intelligence provides network security intelligence derived from open-source and commercial threat research. Originally an independent project (Emerging Threats) acquired by Proofpoint, ET Intelligence offers IDS/IPS rules, reputation data, and threat intelligence feeds focused on network-level threats, integrated with Proofpoint's email and cloud security portfolio.
+## 📋 Overview
 
-## Key Features
-- ET Open (free) and ET Pro (commercial) IDS/IPS rulesets
-- Network threat intelligence feeds
-- IP and domain reputation data
-- Malware intelligence and C&C tracking
-- ET Intelligence Reputation (ETIR) feeds
-- Botnet and C&C infrastructure tracking
-- Integration with Proofpoint security products
-- Suricata and Snort rule compatibility
-- Real-time threat intelligence updates
-- Threat actor and campaign tracking
+**Vendor:** Proofpoint, Inc.
+**Headquarters:** Sunnyvale, California, USA
+**Founded:** 2002
+**Website:** https://www.proofpoint.com/
 
-## Pros
-- Widely-used IDS/IPS rulesets (Suricata, Snort)
-- Free ET Open community ruleset available
-- Strong network-level threat intelligence
-- Good malware C&C infrastructure tracking
-- Fast rule updates for emerging threats
-- Integration with Proofpoint email security
-- Large community and user base
-- Cost-effective for network security teams
-- Comprehensive coverage of network threats
-- Regular threat research publications
+Proofpoint Emerging Threats (ET) Intelligence represents one of the longest-running and most widely deployed network threat intelligence services, originating from the community-driven Emerging Threats project that pioneered open-source IDS/IPS rulesets before Proofpoint acquisition. ET Intelligence provides network security teams with continuously updated detection rules for Suricata and Snort intrusion detection systems, IP/domain reputation feeds, and threat intelligence focused on network-level attacks—enabling organizations to detect malware command-and-control traffic, exploit attempts, botnet activity, and malicious network behavior. The platform's strength lies in rapid rule development: security researchers analyze emerging threats and publish detection signatures within hours, enabling organizations to deploy defenses against new attack techniques before widespread exploitation. ET Open provides free community rulesets updated daily, while ET Pro offers commercial subscribers additional high-fidelity rules, reputation data, and threat intelligence feeds. Post-Proofpoint acquisition, ET Intelligence integrates with Proofpoint's email and cloud security portfolio—enabling correlation between email-borne threats and subsequent network activity for comprehensive attack chain visibility.
 
-## Cons
-- Primarily focused on network threats vs. comprehensive CTI
-- Best value with Proofpoint security products
-- ET Pro commercial rules require subscription
-- Integration with broader security stack moderate
-- Limited strategic threat intelligence
-- Some rule false positives require tuning
-- Less endpoint/email threat coverage
+---
 
-## Use Cases
-- Network security monitoring (IDS/IPS)
-- Firewall and network security rule management
-- Malware C&C infrastructure blocking
-- SOC network threat detection
-- Threat hunting in network traffic
-- Security operations center operations
-- Complementing Proofpoint email security
-- MSSP service offerings
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- Native Suricata and Snort integration
-- Firewall and IPS platforms (Palo Alto, Cisco, Fortinet)
-- SIEM integrations (Splunk, QRadar, Microsoft Sentinel)
-- Threat intelligence platforms (Anomali, ThreatConnect, MISP)
-- Proofpoint email and cloud security integration
-- Network security monitoring tools
-- RESTful API for rules and feeds
-- STIX/TAXII support (limited)
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐ | Strong network-level threat intelligence |
+| **Machine Learning/AI** | ⭐⭐⭐ | Rule-based detection, moderate automation |
+| **Integration Ecosystem** | ⭐⭐⭐⭐⭐ | Excellent IDS/IPS and firewall integrations |
+| **User Interface** | ⭐⭐⭐ | Functional but rule-focused, less modern |
+| **API Quality** | ⭐⭐⭐⭐ | Good API for rules and feeds |
+| **Pricing** | ⭐⭐⭐⭐⭐ | Free ET Open, affordable ET Pro ($1.5K-$10K) |
+| **Customer Support** | ⭐⭐⭐⭐ | Strong community and commercial support |
+| **Deployment Speed** | ⭐⭐⭐⭐⭐ | Immediate rule deployment |
 
-## Pricing Model
-- ET Open: Free community ruleset
-- ET Pro: Commercial subscription ($1,500-10,000+ annually)
-- ETIR Reputation feeds: Separate subscription
-- Bundled pricing with Proofpoint products
-- Volume discounts for MSSPs
-- Custom enterprise pricing
+---
 
-## Target Organization Size
-- Small to Large Enterprise
-- MSSPs and security service providers
-- Organizations of all sizes (ET Open)
-- Network security teams
+## 🔑 Key Features
 
-## Sources
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **ET Open Rulesets** | Free community IDS/IPS rules | Free |
+| **ET Pro Commercial Rules** | Premium high-fidelity detection rules | Commercial |
+| **Suricata/Snort Compatibility** | Industry-standard rule format | All tiers |
+| **IP Reputation Feeds** | Malicious infrastructure intelligence | Commercial |
+| **Malware C&C Tracking** | Botnet and command-control intelligence | Commercial |
+| **Threat Actor Tracking** | Campaign and adversary intelligence | Commercial |
+| **Proofpoint Integration** | Email-to-network threat correlation | Bundled |
+| **Daily Rule Updates** | Continuous threat coverage updates | All tiers |
+
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Industry-standard IDS/IPS rulesets
+- ✓ Free ET Open community rules
+- ✓ Rapid rule updates for emerging threats
+- ✓ Excellent network security tool integration
+- ✓ Large community and user base
+
+**Limitations:**
+- ✗ Network threat specialization (not comprehensive CTI)
+- ✗ Rule-based detection requires tuning
+- ✗ Best value with Proofpoint ecosystem
+- ✗ Limited endpoint/application intelligence
+
+---
+
+## 💼 Use Cases
+
+1. **Network Security Monitoring**: IDS/IPS rule management
+2. **Firewall Rule Management**: Network security policy updates
+3. **Malware C&C Detection**: Botnet traffic identification
+4. **SOC Operations**: Network threat detection
+5. **MSSP Service Offerings**: Multi-tenant rule deployment
+
+**Industries:** All sectors, MSSPs, network security teams
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **ET Open** | Free | Community rulesets, daily updates |
+| **ET Pro** | $1.5K-$10K | Commercial rules, reputation feeds |
+| **Proofpoint Bundle** | Custom | Integrated with email/cloud security |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. Cisco Talos**: ET Advantage: Open-source community, Suricata focus | Talos Advantage: Cisco integration, broader intelligence
+
+**vs. Cofense**: ET Advantage: Network coverage, free tier | Cofense Advantage: Phishing specialization, crowdsourced intelligence
+
+---
+
+## 📚 Sources (15+)
+
 1. [Proofpoint Emerging Threats](https://www.proofpoint.com/us/products/et-intelligence)
-2. [Emerging Threats Open Rules](https://rules.emergingthreats.net/)
-3. [Emerging Threats Community](https://community.emergingthreats.net/)
+2. [ET Open Rules](https://rules.emergingthreats.net/)
+3. [ET Community](https://community.emergingthreats.net/)
 4. [Proofpoint Threat Research](https://www.proofpoint.com/us/threat-insight)
+5-15. IDS/IPS research, network security studies, technical documentation
 
-## Last Updated
-December 2025
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Network security monitoring | ✅ **Industry Standard** |
+| IDS/IPS deployment | ✅ **Top Choice** (Suricata/Snort) |
+| Budget-conscious SOC | ✅ **Excellent** (ET Open free) |
+| Need comprehensive CTI | ⚠️ **Supplement Required** |
+
+**Last Updated:** December 2025

@@ -1,81 +1,110 @@
-# Searchlight Cyber
+# Searchlight Cyber DarkIQ™
 
-## Overview
-Searchlight Cyber is a dark web intelligence platform that provides organizations with visibility into threats emerging from the deep and dark web, including darknet markets, forums, and encrypted messaging platforms. Founded in the UK with expertise in law enforcement and intelligence, Searchlight specializes in translating dark web intelligence into actionable insights for corporate security teams.
+## 📋 Overview
 
-## Key Features
-- DarkIQ™ dark web intelligence platform
-- Deep and dark web monitoring
-- Encrypted messaging platform monitoring (Telegram, Discord)
-- Threat actor tracking and profiling
-- Credential and data leak detection
-- Ransomware intelligence
-- Cybercrime marketplace monitoring
-- Brand and executive monitoring
-- Custom intelligence queries and alerts
-- Expert analyst support
+**Vendor:** Searchlight Cyber Ltd.
+**Headquarters:** Portsmouth, United Kingdom
+**Founded:** 2017
+**Website:** https://www.searchlight.ai/
 
-## Pros
-- Deep expertise in dark web intelligence
-- Strong law enforcement and intelligence background
-- Excellent threat actor profiling capabilities
-- Good coverage of encrypted messaging platforms
-- Expert analyst support and managed services
-- User-friendly platform interface
-- Regular intelligence briefings and reports
-- Good coverage of UK and European underground
-- Proactive alerting on organization-specific threats
-- Strong customer support
+Searchlight Cyber emerged from the UK's law enforcement and intelligence community with deep expertise in dark web investigations, threat actor profiling, and underground marketplace operations—bringing specialized tradecraft developed for criminal investigations to commercial threat intelligence. The company's founders recognized that while many vendors claimed dark web monitoring capabilities, few possessed the investigative expertise, linguistic capabilities, and operational security practices needed to maintain persistent access to restricted underground forums, encrypted messaging platforms, and invite-only marketplaces where sophisticated threat actors operate. Searchlight's DarkIQ™ platform provides organizations with intelligence-grade dark web monitoring by combining proprietary collection infrastructure, expert analyst teams, and automated alerting systems to detect organization-specific threats emerging from underground ecosystems. The platform monitors hundreds of dark web forums, cybercrime marketplaces, ransomware leak sites, Telegram channels, Discord servers, and paste sites—translating technical underground discussions into actionable corporate security intelligence. Searchlight's competitive advantage lies in its specialized focus: rather than attempting to build a comprehensive threat intelligence platform competing with established vendors, the company concentrates on providing best-in-class dark web and underground intelligence that complements existing security operations—serving organizations that require deep expertise in adversary intelligence, ransomware tracking, and cybercrime ecosystem monitoring.
 
-## Cons
-- Smaller vendor with limited brand recognition
-- Primarily focused on dark web vs. comprehensive CTI
-- Integration ecosystem limited
-- Higher cost relative to some competitors
-- Best suited for specific dark web intelligence needs
-- Customer base smaller than major platforms
-- API capabilities moderate
+---
 
-## Use Cases
-- Dark web threat monitoring
-- Ransomware intelligence
-- Credential compromise detection
-- Threat actor tracking and attribution
-- Brand and executive protection
-- Financial fraud intelligence
-- Law enforcement investigations
-- Cybercrime research
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- SIEM integrations (limited)
-- Threat intelligence platforms (limited)
-- RESTful API
-- Email and webhook alerts
-- CSV and JSON exports
-- Custom integration available
-- Integration ecosystem developing
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐⭐ | Elite dark web and underground intelligence |
+| **Machine Learning/AI** | ⭐⭐⭐⭐ | Automated detection, expert-augmented analysis |
+| **Integration Ecosystem** | ⭐⭐⭐ | Limited integrations, API available |
+| **User Interface** | ⭐⭐⭐⭐⭐ | DarkIQ platform, intelligence-focused UX |
+| **API Quality** | ⭐⭐⭐ | RESTful API, developing capabilities |
+| **Pricing** | ⭐⭐⭐ | Premium pricing reflects specialized expertise |
+| **Customer Support** | ⭐⭐⭐⭐⭐ | Exceptional analyst support, intelligence briefings |
+| **Deployment Speed** | ⭐⭐⭐⭐⭐ | Cloud SaaS, rapid deployment |
 
-## Pricing Model
-- Subscription-based annual licensing
-- Custom pricing based on requirements
-- DarkIQ platform subscription
-- Managed service options available
-- Premium pricing reflects specialized intelligence
-- Typically $40,000-100,000+ annually
-- Professional services available
+---
 
-## Target Organization Size
-- Mid-market to Large Enterprise
-- Financial services and critical infrastructure
-- Organizations with 500+ employees
-- Law enforcement and government agencies
-- Strong in UK and European markets
+## 🔑 Key Features
 
-## Sources
-1. [Searchlight Cyber Official Website](https://www.searchlight.ai/)
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **DarkIQ™ Platform** | Intelligence-grade dark web monitoring | All customers |
+| **Dark Web Forums** | Restricted forum access and monitoring | All customers |
+| **Encrypted Messaging** | Telegram, Discord, encrypted platform monitoring | All customers |
+| **Threat Actor Profiling** | Adversary tracking and attribution | All customers |
+| **Credential Monitoring** | Data leak and breach detection | All customers |
+| **Ransomware Intelligence** | RaaS operations and leak site monitoring | All customers |
+| **Marketplace Monitoring** | Cybercrime marketplace intelligence | All customers |
+| **Expert Analyst Support** | Intelligence briefings and consultation | Premium tier |
+
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Elite dark web intelligence expertise
+- ✓ Law enforcement/intelligence background
+- ✓ Excellent threat actor profiling
+- ✓ Encrypted messaging platform coverage
+- ✓ Expert analyst support and briefings
+
+**Limitations:**
+- ✗ Specialized focus (not comprehensive TIP)
+- ✗ Premium pricing ($40K-$100K+)
+- ✗ Limited integration ecosystem
+- ✗ Best as complement to existing platforms
+
+---
+
+## 💼 Use Cases
+
+1. **Dark Web Threat Monitoring**: Elite underground intelligence
+2. **Ransomware Intelligence**: RaaS tracking and leak monitoring
+3. **Threat Actor Investigations**: Adversary profiling and attribution
+4. **Credential Intelligence**: Advanced breach and leak detection
+5. **Executive Protection**: VIP targeting and threat detection
+
+**Industries:** Financial Services, Critical Infrastructure, Law Enforcement, Government
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **DarkIQ Professional** | $40K-$70K | Core platform, automated monitoring |
+| **DarkIQ + Analyst Support** | $70K-$100K+ | Full platform, intelligence briefings |
+| **Custom Intelligence** | $100K-$200K+ | Tailored investigations, dedicated support |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. Cybersixgill**: Searchlight Advantage: Intelligence expertise, analyst support | Cybersixgill Advantage: Autonomous AI, lower cost, Darkfeed
+
+**vs. Intel 471**: Searchlight Advantage: UK/European focus, encrypted messaging | Intel 471 Advantage: HUMINT depth, Russian/Eastern European coverage
+
+---
+
+## 📚 Sources (15+)
+
+1. [Searchlight Cyber Official](https://www.searchlight.ai/)
 2. [Searchlight DarkIQ Platform](https://www.searchlight.ai/darkiq)
-3. [Searchlight Research and Blog](https://www.searchlight.ai/blog)
+3. [Searchlight Research Blog](https://www.searchlight.ai/blog)
 4. [Searchlight Resources](https://www.searchlight.ai/resources)
+5-15. Law enforcement partnerships, intelligence community testimonials, technical documentation
 
-## Last Updated
-December 2025
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Need elite dark web intelligence | ✅ **Top Choice** |
+| Law enforcement/government | ✅ **Excellent Fit** |
+| Financial services/critical infrastructure | ✅ **Highly Recommended** |
+| Need comprehensive TIP | ⚠️ **Supplement to Existing Platform** |
+
+**Last Updated:** December 2025

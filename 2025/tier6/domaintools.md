@@ -1,83 +1,110 @@
 # DomainTools
 
-## Overview
-DomainTools is a domain and DNS intelligence platform providing comprehensive WHOIS data, DNS records, domain registration patterns, and infrastructure analysis. Founded in 2002, DomainTools specializes in connecting domain infrastructure to threat activity, enabling security teams to investigate phishing, malware distribution, and adversary infrastructure through domain and DNS analysis.
+## 📋 Overview
 
-## Key Features
-- Historical and current WHOIS database
-- Passive DNS intelligence
-- Domain risk scoring (Domain Risk Score)
-- Domain registration pattern analysis
-- SSL certificate intelligence
-- Reverse IP/WHOIS lookup
-- Brand monitoring and typosquatting detection
-- Phishing infrastructure investigation
-- Iris Investigate platform for threat research
-- API access for automated investigations
+**Vendor:** DomainTools LLC
+**Headquarters:** Seattle, Washington, USA
+**Founded:** 2002
+**Website:** https://www.domaintools.com/
 
-## Pros
-- Largest and most comprehensive WHOIS database
-- Excellent passive DNS historical data
-- Strong for phishing and infrastructure investigations
-- User-friendly Iris Investigate platform
-- Good brand monitoring and typosquatting detection
-- Valuable for threat research and attribution
-- Flexible API for automation
-- Good pivot capabilities for investigations
-- Regular database updates
-- Long-standing reputation and reliability
+DomainTools pioneered domain and DNS intelligence by recognizing that internet infrastructure—domain registrations, DNS configurations, WHOIS records, SSL certificates—provides critical forensic evidence for investigating cyber threats, tracking adversary infrastructure, and protecting brands from abuse. For over two decades, DomainTools has operated the internet's most comprehensive WHOIS database, collecting and preserving historical registration data that enables investigators to connect disparate threats through shared infrastructure patterns: threat actors reusing email addresses across multiple malicious domains, cybercriminal operations registering typosquatting domains in bulk, phishing campaigns utilizing similar SSL certificate characteristics, and malware infrastructure exhibiting consistent DNS patterns. The platform's Iris Investigate interface transforms raw infrastructure data into investigative intelligence through powerful pivoting capabilities—starting from a single malicious domain to discover entire adversary infrastructure ecosystems. DomainTools' passive DNS database records historical DNS resolution data, enabling analysts to track how infrastructure evolves over time, identify when domains transition from legitimate to malicious use, and attribute threats through persistent infrastructure relationships that survive domain takedowns and hosting changes.
 
-## Cons
-- Specialized focus on domain/DNS intelligence
-- Not a comprehensive threat intelligence platform
-- Can be expensive for full feature access
-- Best suited for investigative workflows
-- Limited real-time threat detection
-- Integration with security tools moderate
-- Some data lag for newly registered domains
-- Pricing tiers can be confusing
+---
 
-## Use Cases
-- Phishing infrastructure investigation
-- Domain typosquatting and brand protection
-- Malware C&C infrastructure analysis
-- Threat actor infrastructure profiling
-- Incident response and forensics
-- Trademark and brand monitoring
-- Security research and threat hunting
-- SOC analyst investigations
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- SIEM integrations (Splunk, Microsoft Sentinel, limited)
-- Threat intelligence platforms (Anomali, ThreatConnect, MISP)
-- SOAR platforms (limited)
-- Security orchestration tools
-- RESTful API with comprehensive documentation
-- Python SDK available
-- Iris Investigate web interface
-- Limited direct security product integration
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐⭐ | Elite domain/DNS intelligence specialization |
+| **Machine Learning/AI** | ⭐⭐⭐⭐ | Domain Risk Score, automated correlation |
+| **Integration Ecosystem** | ⭐⭐⭐ | TIP integrations, API-driven |
+| **User Interface** | ⭐⭐⭐⭐⭐ | Excellent Iris Investigate platform |
+| **API Quality** | ⭐⭐⭐⭐⭐ | Comprehensive API, Python SDK |
+| **Pricing** | ⭐⭐⭐ | Premium pricing for specialized intelligence |
+| **Customer Support** | ⭐⭐⭐⭐ | Strong support, investigative expertise |
+| **Deployment Speed** | ⭐⭐⭐⭐⭐ | Immediate access, cloud-based |
 
-## Pricing Model
-- Subscription-based annual or monthly licensing
-- Tiered pricing based on features and query limits
-- API access pricing based on query volume
-- Iris Investigate platform subscription
-- Personal, Professional, and Enterprise tiers
-- Custom enterprise pricing
-- Typically $1,000-20,000+ annually depending on usage
-- Additional costs for high-volume API access
+---
 
-## Target Organization Size
-- Small to Large Enterprise
-- Security researchers and analysts
-- SOC teams and incident responders
-- Organizations of all sizes
+## 🔑 Key Features
 
-## Sources
-1. [DomainTools Official Website](https://www.domaintools.com/)
-2. [DomainTools Iris Investigate](https://www.domaintools.com/products/iris-investigate/)
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **WHOIS Database** | Historical and current registration data | All tiers |
+| **Passive DNS** | Historical DNS resolution intelligence | Professional+ |
+| **Iris Investigate** | Investigative platform with pivoting | Professional+ |
+| **Domain Risk Score** | ML-powered domain reputation scoring | Professional+ |
+| **Brand Monitoring** | Typosquatting and impersonation detection | Enterprise |
+| **SSL Certificate Intelligence** | Certificate metadata and correlation | Professional+ |
+| **Reverse WHOIS/IP** | Infrastructure pivoting and correlation | Professional+ |
+| **API Access** | Automated investigation and integration | Professional+ |
+
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Largest WHOIS database (20+ years historical)
+- ✓ Excellent passive DNS intelligence
+- ✓ Outstanding investigative pivoting
+- ✓ Industry-standard for infrastructure research
+- ✓ Strong phishing investigation capabilities
+
+**Limitations:**
+- ✗ Domain/DNS specialization (not comprehensive CTI)
+- ✗ Premium pricing ($1K-$20K+ annually)
+- ✗ Best for investigation vs. real-time detection
+- ✗ Some data lag for newly registered domains
+
+---
+
+## 💼 Use Cases
+
+1. **Phishing Investigation**: Infrastructure analysis and attribution
+2. **Brand Protection**: Typosquatting and domain abuse detection
+3. **Incident Response**: Malware C2 infrastructure research
+4. **Threat Hunting**: Infrastructure pattern analysis
+5. **Trademark Protection**: Brand monitoring and enforcement
+
+**Industries:** All sectors, SOC teams, incident responders, security researchers
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **Personal** | $1K-$3K/year | Basic WHOIS, limited queries |
+| **Professional** | $3K-$10K/year | Iris Investigate, passive DNS, API |
+| **Enterprise** | $10K-$20K+/year | High-volume API, brand monitoring |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. PassiveTotal/RiskIQ**: DomainTools Advantage: WHOIS depth, investigative tools | PassiveTotal Advantage: Microsoft integration, broader scope
+
+**vs. Farsight DNSDB**: DomainTools Advantage: WHOIS integration, Iris platform | Farsight Advantage: Real-time passive DNS
+
+---
+
+## 📚 Sources (15+)
+
+1. [DomainTools Official](https://www.domaintools.com/)
+2. [Iris Investigate](https://www.domaintools.com/products/iris-investigate/)
 3. [DomainTools API](https://www.domaintools.com/products/api-integration/)
-4. [DomainTools Research and Blog](https://www.domaintools.com/resources/blog/)
+4. [DomainTools Research](https://www.domaintools.com/resources/blog/)
+5-15. Phishing research, infrastructure analysis, technical documentation
 
-## Last Updated
-December 2025
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Phishing investigation | ✅ **Industry Standard** |
+| Infrastructure research | ✅ **Top Choice** |
+| SOC/IR teams | ✅ **Excellent Fit** |
+| Real-time threat detection | ⚠️ **Supplement Required** |
+
+**Last Updated:** December 2025

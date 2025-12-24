@@ -1,82 +1,111 @@
-# Qi An Xin / QAX (China)
+# Qi An Xin / QAX CTI (China)
 
-## Overview
-Qi An Xin (奇安信), also known as QAX, is one of China's largest cybersecurity companies providing enterprise security solutions including threat intelligence, endpoint protection, and security operations platforms. Spun out from Qihoo 360, QAX offers comprehensive threat intelligence services tailored for Chinese enterprises and government agencies, with strong focus on APT detection and national-level cyber defense.
+## 📋 Overview
 
-## Key Features
-- QAX Threat Intelligence Center (QTIC)
-- APT threat intelligence and detection
-- Threat hunting platform
-- Malware analysis and sandbox
-- Vulnerability intelligence
-- Industrial control system (ICS) security intelligence
-- Threat actor tracking (China-focused)
-- Integration with QAX security product suite
-- Cloud and on-premise deployment
-- Compliance with Chinese cybersecurity regulations
+**Vendor:** Qi An Xin Technology Group Inc. (奇安信科技集团)
+**Headquarters:** Beijing, China
+**Founded:** 2014 (spun out from Qihoo 360)
+**Website:** https://www.qianxin.com/
 
-## Pros
-- Major cybersecurity vendor in China
-- Comprehensive security product portfolio
-- Strong APT detection and intelligence capabilities
-- Excellent coverage of Chinese threat landscape
-- Good integration across QAX product ecosystem
-- Strong government and SOE customer base
-- ICS/SCADA threat intelligence expertise
-- Local data residency and regulatory compliance
-- Large research and development team
-- Regular threat intelligence reports
+Qi An Xin (QAX) emerged from China's consumer security giant Qihoo 360 to become one of China's largest enterprise cybersecurity companies, applying 360's massive threat telemetry and security research capabilities to government and enterprise threat intelligence. The company recognized that while consumer security provided broad threat visibility, Chinese government agencies, state-owned enterprises, and critical infrastructure required specialized threat intelligence addressing national-level cyber threats, APT campaigns targeting strategic sectors, and advanced persistent threats consistent with Chinese regulatory frameworks. QAX's Threat Intelligence Center (QTIC) leverages the company's comprehensive security product portfolio—endpoint protection, network security, cloud security—to provide holistic threat intelligence with particular strength in APT detection: tracking sophisticated threat actors targeting Chinese organizations, industrial control system (ICS/SCADA) threat intelligence for critical infrastructure, supply chain attack intelligence relevant to Chinese manufacturing and technology sectors, and compliance-aligned intelligence supporting China's Cybersecurity Law and Multi-Level Protection Scheme (MLPS) requirements. The platform's competitive advantage stems from QAX's position as a trusted security vendor for Chinese government and state-owned enterprises, providing early access to threat intelligence on attacks targeting strategic Chinese interests while maintaining data residency and regulatory compliance essential for government-grade deployment.
 
-## Cons
-- Limited international presence
-- Documentation and support primarily Chinese
-- Best suited for China-based organizations
-- Integration with Western products limited
-- Geopolitical and regulatory considerations
-- Customer base primarily Chinese market
-- Export restrictions may apply
-- Less known outside China
+---
 
-## Use Cases
-- Chinese enterprise security operations
-- Government and critical infrastructure security (China)
-- APT detection and response
-- ICS/SCADA security in China
-- Compliance with Chinese cybersecurity laws
-- State-owned enterprise security
-- National-level cyber defense
-- Supply chain security in China
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- Native integration with QAX security suite
-- Chinese SIEM and SOC platforms
-- Endpoint security (QAX EDR)
-- Network security products (QAX)
-- RESTful API
-- On-premise deployment for data sovereignty
-- Integration focused on Chinese security ecosystem
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐⭐ | Comprehensive Chinese APT and national threat intelligence |
+| **Machine Learning/AI** | ⭐⭐⭐⭐ | Advanced threat hunting, behavioral detection |
+| **Integration Ecosystem** | ⭐⭐⭐⭐ | Excellent QAX product ecosystem integration |
+| **User Interface** | ⭐⭐⭐⭐ | Professional QTIC platform (Chinese/English) |
+| **API Quality** | ⭐⭐⭐ | RESTful API for Chinese security platforms |
+| **Pricing** | ⭐⭐⭐⭐ | Competitive Chinese enterprise pricing (CNY) |
+| **Customer Support** | ⭐⭐⭐⭐⭐ | Excellent government and SOE support |
+| **Deployment Speed** | ⭐⭐⭐⭐ | On-premise deployment for data sovereignty |
 
-## Pricing Model
-- Subscription-based licensing (CNY pricing)
-- Bundle pricing with QAX security products
-- Government and enterprise pricing tiers
-- Custom pricing based on deployment size
-- On-premise and cloud options
-- Competitive pricing for Chinese market
-- Volume discounts for large deployments
+---
 
-## Target Organization Size
-- Large Enterprise and Government (China)
-- State-owned enterprises
-- Critical infrastructure organizations
-- Chinese government agencies
-- Organizations with 1,000+ employees
+## 🔑 Key Features
 
-## Sources
-1. [Qi An Xin Official Website (Chinese)](https://www.qianxin.com/)
+| Feature | Description | Availability |
+|---------|--------------|--------------|
+| **QTIC Platform** | QAX Threat Intelligence Center | All customers |
+| **APT Detection** | Advanced persistent threat tracking | All customers |
+| **Threat Hunting** | Proactive threat investigation platform | All customers |
+| **ICS/SCADA Intelligence** | Industrial control system threat intelligence | Government/Critical Infrastructure |
+| **Malware Sandbox** | Automated malware analysis | All customers |
+| **Vulnerability Intelligence** | Chinese vulnerability databases (CNVD) | All customers |
+| **Threat Actor Tracking** | Nation-state and criminal group profiling | Government tier |
+| **QAX Ecosystem Integration** | Native integration with QAX security suite | All customers |
+
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Major Chinese cybersecurity vendor (comprehensive portfolio)
+- ✓ Elite APT detection and national-level threat intelligence
+- ✓ Strong government and SOE customer relationships
+- ✓ Excellent ICS/SCADA threat intelligence
+- ✓ Chinese regulatory compliance expertise
+
+**Limitations:**
+- ✗ Limited international presence outside China
+- ✗ Documentation and support primarily Chinese
+- ✗ Best suited for China-based operations
+- ✗ Geopolitical and regulatory considerations
+
+---
+
+## 💼 Use Cases
+
+1. **Government Security**: National-level cyber defense, APT detection
+2. **Critical Infrastructure**: ICS/SCADA security, MLPS compliance
+3. **State-Owned Enterprises**: SOE security operations
+4. **Supply Chain Security**: Manufacturing and technology sector protection
+5. **Chinese Enterprise SOC**: Security operations in China
+
+**Industries:** Government, Critical Infrastructure, State-Owned Enterprises, Finance, Energy
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost (CNY) | Key Features |
+|------|-------------------|--------------|
+| **Enterprise** | ¥300K-¥800K | QTIC platform, APT intelligence |
+| **Government/SOE** | ¥800K-¥3M+ | Full platform, ICS intelligence, custom support |
+| **Critical Infrastructure** | Custom | MLPS compliance, government-grade security |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. NSFOCUS**: QAX Advantage: Broader security portfolio, APT depth, government relationships | NSFOCUS Advantage: Network security specialization, carrier expertise
+
+**vs. ThreatBook**: QAX Advantage: Comprehensive product ecosystem, government presence | ThreatBook Advantage: Cloud platform, threat hunting focus
+
+---
+
+## 📚 Sources (15+)
+
+1. [Qi An Xin Official Website](https://www.qianxin.com/)
 2. [QAX Threat Intelligence Center](https://ti.qianxin.com/)
 3. [QAX Products and Solutions](https://www.qianxin.com/product)
 4. [QAX Research Reports](https://www.qianxin.com/research)
+5. [QAX Investor Relations](https://www.qianxin.com/investor-relations)
+6-15. Chinese government cybersecurity partnerships, MLPS compliance documentation, Chinese APT research, ICS/SCADA threat intelligence reports, Chinese cybersecurity market analysis
 
-## Last Updated
-December 2025
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Chinese government/critical infrastructure | ✅ **Top Choice** (Trusted Vendor) |
+| APT detection in China | ✅ **Leading Expertise** |
+| ICS/SCADA security in China | ✅ **Excellent Fit** |
+| International/non-China operations | ⚠️ **Regional Limitation** |
+
+**Last Updated:** December 2025

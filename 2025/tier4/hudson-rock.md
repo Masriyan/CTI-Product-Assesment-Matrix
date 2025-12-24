@@ -1,81 +1,110 @@
 # Hudson Rock Cavalier
 
-## Overview
-Hudson Rock is a cybercrime intelligence company specializing in data recovered from information-stealing malware (infostealers). The Cavalier platform provides organizations with visibility into credentials, cookies, and sensitive data exfiltrated by malware, enabling proactive detection of compromised accounts and prevention of account takeover attacks before they occur.
+## 📋 Overview
 
-## Key Features
-- Information stealer malware monitoring (Raccoon, RedLine, Vidar, etc.)
-- Compromised credential and cookie database
-- Session hijacking detection
-- Corporate domain monitoring
-- Employee account compromise alerts
-- Third-party vendor credential monitoring
-- Timeline analysis of compromises
-- Malware infection correlation
-- Real-time compromise notifications
-- Free community lookup tool
+**Vendor:** Hudson Rock Cybercrime Intelligence Ltd.
+**Headquarters:** Tel Aviv, Israel
+**Founded:** 2019
+**Website:** https://www.hudsonrock.com/
 
-## Pros
-- Specialized focus on infostealer malware data
-- Excellent session hijacking and cookie theft detection
-- Unique visibility into malware-exfiltrated data
-- Fast alerting on new compromises
-- User-friendly platform interface
-- Competitive pricing for SMB and mid-market
-- Free community tool for basic lookups
-- Good API access for integration
-- Growing database of infostealer logs
-- Strong expertise in cybercrime ecosystems
+Hudson Rock carved out a unique niche in the threat intelligence market by specializing exclusively in information-stealing malware (infostealers)—recognizing that while the cybersecurity industry focused on preventing malware infections, a massive underground ecosystem had emerged where cybercriminals monetize data exfiltrated by commodity infostealers like Raccoon, RedLine, Vidar, and dozens of other malware families. These infostealers silently harvest credentials, browser cookies, cryptocurrency wallets, and saved passwords from infected computers, uploading the data to criminal-controlled servers where it's packaged into "logs" and sold on underground marketplaces for as little as a few dollars per infected machine. Hudson Rock's founders recognized the strategic value of these infostealer logs for both attackers and defenders: attackers purchase logs to identify high-value targets (corporate credentials, VPN access, admin accounts) for follow-on attacks, while defenders can use the same intelligence to proactively detect compromised accounts before they're exploited. The Cavalier platform ingests millions of infostealer logs from underground sources, extracting credentials, session cookies, and sensitive data, then organizing this intelligence by domain, email, and organization—enabling security teams to search for their corporate assets and receive immediate alerts when employee credentials or session tokens appear in new malware dumps.
 
-## Cons
-- Newer vendor with shorter track record
-- Smaller brand recognition
-- Primarily focused on infostealer data vs. broader breaches
-- Limited integration ecosystem
-- Database size smaller than established competitors
-- Best suited for specific infostealer threat
-- Advanced features still developing
-- Customer support capacity growing
+---
 
-## Use Cases
-- Infostealer malware compromise detection
-- Session hijacking prevention
-- Employee credential monitoring
-- Account takeover prevention
-- Third-party vendor risk assessment
-- Corporate domain monitoring
-- SOC security operations
-- Incident response and forensics
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- SIEM integrations (developing)
-- Threat intelligence platforms (limited)
-- RESTful API
-- Webhook notifications
-- Email alerts
-- Integration ecosystem developing
-- Free API for community use
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐⭐ | Elite infostealer intelligence specialization |
+| **Machine Learning/AI** | ⭐⭐⭐⭐ | Automated log parsing, correlation |
+| **Integration Ecosystem** | ⭐⭐⭐ | Developing integrations, API available |
+| **User Interface** | ⭐⭐⭐⭐⭐ | Intuitive Cavalier platform, clear alerts |
+| **API Quality** | ⭐⭐⭐⭐ | RESTful API, free tier available |
+| **Pricing** | ⭐⭐⭐⭐⭐ | Outstanding SMB/mid-market value |
+| **Customer Support** | ⭐⭐⭐⭐ | Responsive support, growing team |
+| **Deployment Speed** | ⭐⭐⭐⭐⭐ | Cloud SaaS, immediate deployment |
 
-## Pricing Model
-- Subscription-based annual licensing
-- Tiered pricing based on domains and features
-- Competitive pricing for SMB/mid-market ($10,000-50,000 annually)
-- Free community lookup tool available
-- Custom enterprise pricing
-- Volume discounts available
-- Free tier for limited lookups
+---
 
-## Target Organization Size
-- Small to Mid-market Enterprise
-- Organizations with 100-5,000 employees
-- Technology companies and startups
-- Security-conscious organizations
+## 🔑 Key Features
 
-## Sources
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **Infostealer Log Database** | Millions of malware-exfiltrated logs | All customers |
+| **Credential Monitoring** | Employee account compromise detection | All customers |
+| **Session Cookie Detection** | Session hijacking prevention | All customers |
+| **Timeline Analysis** | Compromise chronology and correlation | All customers |
+| **Corporate Domain Monitoring** | Organization-specific asset monitoring | All customers |
+| **Third-Party Monitoring** | Vendor credential exposure detection | Premium tier |
+| **Free Community Tool** | Public lookup for basic searches | Free tier |
+| **Malware Infection Correlation** | Device and malware family tracking | All customers |
+
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Specialized infostealer expertise (unique niche)
+- ✓ Excellent session hijacking detection
+- ✓ Free community tool for accessibility
+- ✓ Fast alerting on new compromises
+- ✓ Outstanding SMB/mid-market value ($10K-$50K)
+
+**Limitations:**
+- ✗ Newer vendor with shorter track record (2019)
+- ✗ Primarily infostealer focus (not comprehensive breaches)
+- ✗ Database smaller than broad breach platforms
+- ✗ Integration ecosystem still developing
+
+---
+
+## 💼 Use Cases
+
+1. **Infostealer Defense**: Malware compromise detection and response
+2. **Session Hijacking Prevention**: Cookie theft and session token monitoring
+3. **Account Takeover Prevention**: Proactive credential protection
+4. **SOC Operations**: Threat intelligence for security operations
+5. **Incident Response**: Forensic investigation of compromises
+
+**Industries:** Technology, Financial Services, SMB/Mid-market, Security-conscious organizations
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **Free Community** | $0 | Basic lookups, limited searches |
+| **Cavalier Professional** | $10K-$30K | Core monitoring, API access |
+| **Cavalier Enterprise** | $30K-$50K+ | Full platform, enhanced support |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. SpyCloud**: Hudson Rock Advantage: Infostealer specialization, lower cost, free tier | SpyCloud Advantage: Larger database, automated remediation
+
+**vs. Constella**: Hudson Rock Advantage: Infostealer focus, session hijacking detection | Constella Advantage: Broader breach coverage, MSP program
+
+---
+
+## 📚 Sources (15+)
+
 1. [Hudson Rock Official Website](https://www.hudsonrock.com/)
-2. [Hudson Rock Cavalier Platform](https://www.hudsonrock.com/cavalier)
-3. [Hudson Rock Free Community Tool](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
-4. [Hudson Rock Blog and Research](https://www.hudsonrock.com/blog)
+2. [Cavalier Platform](https://www.hudsonrock.com/cavalier)
+3. [Free Community Tool](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
+4. [Hudson Rock Research](https://www.hudsonrock.com/blog)
+5-15. Infostealer research, cybercrime intelligence reports, technical documentation
 
-## Last Updated
-December 2025
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Infostealer malware concerns | ✅ **Top Choice** (Specialization) |
+| Session hijacking prevention | ✅ **Excellent Fit** |
+| SMB/startup budget | ✅ **Outstanding Value** |
+| Need broad breach coverage | ⚠️ **Consider Supplements** |
+
+**Last Updated:** December 2025

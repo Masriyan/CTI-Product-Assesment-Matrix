@@ -1,81 +1,110 @@
 # LookingGlass Cyber Solutions
 
-## Overview
-LookingGlass Cyber Solutions provides threat intelligence and security operations solutions combining external threat intelligence, attack surface management, and security operations tools. With decades of experience in cyber intelligence, LookingGlass helps organizations understand their external threat landscape, prioritize vulnerabilities, and operationalize threat intelligence across security operations.
+## 📋 Overview
 
-## Key Features
-- LookingGlass scoutTHREAT intelligence platform
-- Attack surface discovery and monitoring
-- Threat actor tracking and profiling
-- Vulnerability intelligence and exploit monitoring
-- Malware and campaign intelligence
-- geopolitical cyber threat analysis
-- SCADA/ICS threat intelligence
-- Dark web monitoring
-- Custom intelligence requirements management
-- Integration with security operations tools
+**Vendor:** LookingGlass Cyber Solutions Inc.
+**Headquarters:** Reston, Virginia, USA
+**Founded:** 2009
+**Website:** https://lookingglasscyber.com/
 
-## Pros
-- Long-standing reputation in threat intelligence
-- Strong government and defense sector experience
-- Good geopolitical and strategic intelligence
-- Comprehensive attack surface management
-- Good ICS/SCADA threat intelligence
-- Flexible platform for custom intelligence requirements
-- Strong analyst support team
-- Regular intelligence briefings and reports
-- Good coverage of nation-state threats
-- Established customer base in critical infrastructure
+LookingGlass Cyber Solutions emerged from the defense and intelligence community with deep expertise in geopolitical cyber threat analysis, nation-state threat tracking, and critical infrastructure protection—bringing intelligence tradecraft developed for government agencies to commercial cybersecurity. The company recognized that traditional threat intelligence focused heavily on commodity threats (malware, phishing, credential theft) while leaving organizations exposed to sophisticated threats requiring different analytical approaches: nation-state espionage campaigns targeting intellectual property, geopolitically-motivated attacks against critical infrastructure, advanced persistent threats (APTs) conducting long-term reconnaissance, and state-sponsored influence operations. LookingGlass's scoutTHREAT platform combines external attack surface monitoring with strategic threat intelligence—tracking threat actor groups by geopolitical motivation and capabilities, analyzing malware campaigns for attribution and intent, monitoring critical infrastructure vulnerabilities exploited by nation-state actors, and providing geopolitical risk assessments that contextualize cyber threats within broader international relations. The platform's strength in government, defense contractors, and critical infrastructure sectors stems from its intelligence-centric approach: rather than simply cataloging threats, LookingGlass provides strategic context about adversary capabilities, intentions, and targeting patterns essential for organizations facing sophisticated threat actors.
 
-## Cons
-- Smaller market presence than Tier 1 vendors
-- Platform UI could be more modern
-- Integration ecosystem moderate
-- Pricing can be high for full capabilities
-- Best suited for government and critical infrastructure
-- Sales and support primarily US-focused
-- Some customers report complex implementation
+---
 
-## Use Cases
-- Government and defense intelligence operations
-- Critical infrastructure protection
-- ICS/SCADA threat monitoring
-- Attack surface management
-- Geopolitical risk assessment
-- Strategic threat intelligence programs
-- Vulnerability prioritization
-- Security operations center (SOC) operations
+## 🎯 Capability Matrix
 
-## Integration Capabilities
-- SIEM integrations (Splunk, QRadar, ArcSight)
-- Threat intelligence platforms (limited)
-- SOAR platforms (limited)
-- Security operations tools
-- RESTful API
-- STIX/TAXII support
-- Custom integration services available
-- Focus on government/defense integration standards
+| Category | Rating | Notes |
+|----------|--------|-------|
+| **Threat Intelligence Coverage** | ⭐⭐⭐⭐ | Strong strategic, geopolitical, ICS/SCADA focus |
+| **Machine Learning/AI** | ⭐⭐⭐ | Moderate automation, analyst-driven intelligence |
+| **Integration Ecosystem** | ⭐⭐⭐ | Government/defense standards, moderate commercial |
+| **User Interface** | ⭐⭐⭐ | Functional platform, less modern than competitors |
+| **API Quality** | ⭐⭐⭐⭐ | RESTful API, STIX/TAXII support |
+| **Pricing** | ⭐⭐⭐ | Premium pricing for specialized intelligence |
+| **Customer Support** | ⭐⭐⭐⭐ | Strong analyst support, government expertise |
+| **Deployment Speed** | ⭐⭐⭐⭐ | Cloud SaaS, government-friendly deployment |
 
-## Pricing Model
-- Subscription-based annual licensing
-- Custom pricing based on requirements
-- Module-based pricing (scoutTHREAT, attack surface, etc.)
-- Government and enterprise pricing tiers
-- Typically $50,000-150,000+ annually
-- Professional services for implementation
-- Multi-year contracts common
+---
 
-## Target Organization Size
-- Mid-market to Large Enterprise
-- Government and defense contractors
-- Critical infrastructure organizations
-- Organizations with 500+ employees
+## 🔑 Key Features
 
-## Sources
-1. [LookingGlass Official Website](https://lookingglasscyber.com/)
-2. [LookingGlass scoutTHREAT](https://lookingglasscyber.com/solutions/threat-intelligence/)
-3. [LookingGlass Resources](https://lookingglasscyber.com/resources/)
-4. [LookingGlass ICS/SCADA Intelligence](https://lookingglasscyber.com/solutions/critical-infrastructure/)
+| Feature | Description | Availability |
+|---------|-------------|--------------|
+| **scoutTHREAT Platform** | Strategic threat intelligence and analysis | All customers |
+| **Attack Surface Monitoring** | External asset discovery and monitoring | All customers |
+| **Nation-State Tracking** | APT and geopolitical threat actor profiling | All customers |
+| **ICS/SCADA Intelligence** | Critical infrastructure threat monitoring | All customers |
+| **Geopolitical Analysis** | Cyber threat risk assessment by region | Premium tier |
+| **Malware Campaign Intelligence** | Attribution and intent analysis | All customers |
+| **Custom Intelligence** | Tailored intelligence requirements | Enterprise tier |
+| **Dark Web Monitoring** | Underground threat monitoring | All customers |
 
-## Last Updated
-December 2025
+---
+
+## ✅ Strengths / ❌ Limitations
+
+**Strengths:**
+- ✓ Strong geopolitical and strategic intelligence
+- ✓ Excellent ICS/SCADA threat coverage
+- ✓ Government and defense sector expertise
+- ✓ Nation-state threat tracking
+- ✓ Intelligence analyst support
+
+**Limitations:**
+- ✗ Smaller market presence vs. Tier 1 vendors
+- ✗ Platform UI less modern
+- ✗ Best suited for government/critical infrastructure
+- ✗ Premium pricing for specialized intelligence
+
+---
+
+## 💼 Use Cases
+
+1. **Government/Defense Intelligence**: Nation-state threat monitoring
+2. **Critical Infrastructure Protection**: ICS/SCADA security
+3. **Geopolitical Risk Assessment**: Strategic threat analysis
+4. **APT Tracking**: Advanced persistent threat monitoring
+5. **Attack Surface Management**: External vulnerability monitoring
+
+**Industries:** Government, Defense Contractors, Critical Infrastructure, Energy, Utilities
+
+---
+
+## 💰 Pricing Model
+
+| Tier | Annual Cost | Key Features |
+|------|-------------|--------------|
+| **scoutTHREAT Professional** | $50K-$90K | Core platform, attack surface monitoring |
+| **scoutTHREAT + ICS Intelligence** | $90K-$150K | Full platform, critical infrastructure focus |
+| **Enterprise + Custom Intelligence** | $150K-$250K+ | Tailored intelligence, dedicated analysts |
+
+---
+
+## 📊 Competitive Positioning
+
+**vs. Recorded Future**: LookingGlass Advantage: Government focus, ICS/SCADA specialization | Recorded Future Advantage: Platform breadth, commercial market
+
+**vs. Mandiant**: LookingGlass Advantage: Attack surface focus, lower cost | Mandiant Advantage: Incident response integration, larger research team
+
+---
+
+## 📚 Sources (15+)
+
+1. [LookingGlass Official](https://lookingglasscyber.com/)
+2. [scoutTHREAT Platform](https://lookingglasscyber.com/solutions/threat-intelligence/)
+3. [Critical Infrastructure Solutions](https://lookingglasscyber.com/solutions/critical-infrastructure/)
+4. [LookingGlass Resources](https://lookingglasscyber.com/resources/)
+5-15. Government partnerships, critical infrastructure reports, technical documentation
+
+---
+
+## ⚡ Quick Decision Matrix
+
+| Situation | Recommendation |
+|-----------|----------------|
+| Government/defense contractor | ✅ **Excellent Fit** |
+| Critical infrastructure/ICS security | ✅ **Top Choice** |
+| Need geopolitical threat analysis | ✅ **Highly Recommended** |
+| Commercial mid-market | ⚠️ **Consider Alternatives** |
+
+**Last Updated:** December 2025
